@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning something cool at VadimKsendzoff QA course
 - 👯 I’m looking to collaborate on learning Python automation in test
 - 📫 How to reach me: https://t.me/liubovsergeeva
-- CV https://github.com/liubovsergheeva/CV
+- 💬 CV: https://github.com/liubovsergheeva/CV
 <!--
 **liubovsergheeva/liubovsergheeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
